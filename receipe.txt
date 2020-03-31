@@ -6,3 +6,4 @@ pizza
 pasta
 roti
 kheer
+sbji
