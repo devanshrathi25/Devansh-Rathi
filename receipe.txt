@@ -1,12 +1,5 @@
-Welcome to Devansh Kitchen
 
-
-
-pizza
-pasta
-roti
-kheer
-sbji
-
+chhole
 
 thank you
+done
